@@ -1,10 +1,11 @@
 # 💫 About Me:
-I make professional websites, visit sawantsites.com to get yourself a website.<br>I'm also developing a community platform samudaya.in<br>(Signup for Free access)
+I make professional websites, visit sawantsites.com to get yourself a website.<br>I'm also developing a community platform samudaya.in<br>(Signup for Free access)<br>
 <a href="https://www.sawantsites.com" target="_blank" style="text-decoration:none;">
   <button style="background-color:#4CAF50;color:white;padding:10px 20px;border:none;border-radius:5px;cursor:pointer;">
     Visit My Website
   </button>
 </a>
+<br>
 <a href="https://samudaya.in" target="_blank" style="text-decoration:none;">
   <button style="background-color:#4CAF50;color:white;padding:10px 20px;border:none;border-radius:5px;cursor:pointer;">
     Visit My Platform
