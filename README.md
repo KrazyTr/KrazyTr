@@ -14,7 +14,7 @@ I make professional websites, visit sawantsites.com to get yourself a website.<b
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isaurabhsawant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-sawant-8aa2b82bb) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CreatorSaurabhs) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@isaurabhsawant) [![Visit My Website](https://img.shields.io/badge/My_Website-Click_Here-brightgreen)](https://www.sawantsites.com) [![Visit My Platform](https://img.shields.io/badge/My_Platform-Click_Here-blue)](https://samudaya.in)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saurabh.n.sawant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-sawant-8aa2b82bb) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saurabhNsawant) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@saurabh.n.sawant) [![Visit My Website](https://img.shields.io/badge/My_Website-Click_Here-brightgreen)](https://www.sawantsites.com) [![Visit My Platform](https://img.shields.io/badge/My_Platform-Click_Here-blue)](https://samudaya.in)
 
 
 
